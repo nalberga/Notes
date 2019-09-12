@@ -3,7 +3,7 @@
 ### ARPA: average revenue per account(the average MRR across all of your active customers)
 ### customer churn rate: The rate at which your customers are cancelling their subscriptions.)
 
-var ARPA = 1000
+var ARPA = 500
 var GM = 100
 var CCR = 20
 var LTV =(ARPA * GM)/ CCR
